@@ -1,6 +1,6 @@
 package com.dev.eventostec.repositories;
 
-import com.dev.eventostec.domain.coupon.Coupon;
+import com.dev.eventostec.entities.Coupon;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

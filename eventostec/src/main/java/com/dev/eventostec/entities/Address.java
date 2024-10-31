@@ -1,6 +1,5 @@
-package com.dev.eventostec.domain.address;
+package com.dev.eventostec.entities;
 
-import com.dev.eventostec.domain.event.Event;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
